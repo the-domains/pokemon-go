@@ -1,0 +1,28 @@
+name: Pokemon Go
+favicon: null
+layout_spectrum: 0.6935213329270482
+typography_spectrum: 0.2381417411379516
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6505771155934781
+  lightness: 0.9098810579162091
+  saturation: 0.068964215926826
+  rhythmicContrast: 0.49938009842298925
+purpose: []
