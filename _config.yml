@@ -1,6 +1,6 @@
 name: Pokemon Go
 favicon: null
-layout_spectrum: 0.75046
+layout_spectrum: 1
 typography_spectrum: 0.42444
 title: Anything Pokemon Go
 cta:
@@ -22,7 +22,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
