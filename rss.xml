@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Anything Pokemon Go]]></title>
+        <description><![CDATA[Anything Pokemon Go]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jul 2016 00:26:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Pokemon Goers!]]></title>
+            <description><![CDATA[<article><h1>Hello, Pokemon Goers!</h1><p>I just made that term up. </p></article>]]></description>
+            <link>undefinedhello-pokemon-goers/index.html</link>
+            <guid isPermaLink="false">8b95b04e-508a-4588-99a9-2dac20bf25bd</guid>
+            <pubDate>Thu, 14 Jul 2016 00:26:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
