@@ -4,8 +4,15 @@
         <description><![CDATA[Anything Pokemon Go]]></description>
         <link>https://thegrid.ai/pokemon-go/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 00:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 00:55:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pokemon-go/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First legendary hatch]]></title>
+            <description><![CDATA[<article><h1>First legendary hatch</h1><p>Description here</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ec4024e34d0b3b9a07bc130cfb833816/noop.gif?input=http%3A%2F%2Fi.imgur.com%2FnLqkOrs.gif"></article>]]></description>
+            <link>http://i.imgur.com/nLqkOrs.gif</link>
+            <guid isPermaLink="false">b378eb9a-1fb3-4bac-9339-5de861817dca</guid>
+            <pubDate>Thu, 14 Jul 2016 00:55:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://imgur.com/JEeWvHc.jpg"></article>]]></description>
